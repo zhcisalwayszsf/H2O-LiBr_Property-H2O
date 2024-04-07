@@ -1,0 +1,7 @@
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Debug\net8.0\LiBr_H2O_Calculator.Form1.resources
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Debug\net8.0\LiBr_H2O_Calculator.Properties.Resources.resources
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Debug\net8.0\LiBr_H2O_Calculator.csproj.GenerateResource.cache
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Debug\net8.0\LiBr_H2O_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Debug\net8.0\LiBr_H2O_Calculator.AssemblyInfoInputs.cache
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Debug\net8.0\LiBr_H2O_Calculator.AssemblyInfo.cs
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Debug\net8.0\LiBr_H2O_Calculator.csproj.CoreCompileInputs.cache

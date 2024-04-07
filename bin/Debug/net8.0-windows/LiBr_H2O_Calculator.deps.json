@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LiBr_H2O_Calculator/1.0.0": {
+        "runtime": {
+          "LiBr_H2O_Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiBr_H2O_Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

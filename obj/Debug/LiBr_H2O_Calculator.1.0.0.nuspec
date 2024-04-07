@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LiBr_H2O_Calculator</id>
+    <version>1.0.0</version>
+    <authors>LiBr_H2O_Calculator</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\bin\Debug\net6.0-windows\LiBr_H2O_Calculator.runtimeconfig.json" target="lib\net6.0-windows7.0\LiBr_H2O_Calculator.runtimeconfig.json" />
+    <file src="G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\bin\Debug\net6.0-windows\LiBr_H2O_Calculator.dll" target="lib\net6.0-windows7.0\LiBr_H2O_Calculator.dll" />
+  </files>
+</package>

@@ -1,0 +1,16 @@
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\bin\Release\net6.0-windows\LiBr_H2O_Calculator.exe
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\bin\Release\net6.0-windows\LiBr_H2O_Calculator.deps.json
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\bin\Release\net6.0-windows\LiBr_H2O_Calculator.runtimeconfig.json
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\bin\Release\net6.0-windows\LiBr_H2O_Calculator.dll
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\bin\Release\net6.0-windows\LiBr_H2O_Calculator.pdb
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Release\net6.0-windows\LiBr_H2O_Calculator.Form1.resources
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Release\net6.0-windows\LiBr_H2O_Calculator.csproj.GenerateResource.cache
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Release\net6.0-windows\LiBr_H2O_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Release\net6.0-windows\LiBr_H2O_Calculator.AssemblyInfoInputs.cache
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Release\net6.0-windows\LiBr_H2O_Calculator.AssemblyInfo.cs
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Release\net6.0-windows\LiBr_H2O_Calculator.csproj.CoreCompileInputs.cache
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Release\net6.0-windows\LiBr_H2O_Calculator.dll
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Release\net6.0-windows\refint\LiBr_H2O_Calculator.dll
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Release\net6.0-windows\LiBr_H2O_Calculator.pdb
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Release\net6.0-windows\LiBr_H2O_Calculator.genruntimeconfig.cache
+G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\obj\Release\net6.0-windows\ref\LiBr_H2O_Calculator.dll
