@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LiBr_H2O_Calculator
-build_property.ProjectDir = G:\MyProgram\LiBr_H2O\LiBr_H2O_Calculator\
+build_property.ProjectDir = G:\MyProgram\LiBr_H2O\github\H2O\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

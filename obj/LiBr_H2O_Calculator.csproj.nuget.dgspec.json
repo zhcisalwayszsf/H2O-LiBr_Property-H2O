@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\LiBr_H2O_Calculator.csproj": {}
+    "G:\\MyProgram\\LiBr_H2O\\github\\H2O\\LiBr_H2O_Calculator.csproj": {}
   },
   "projects": {
-    "G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\LiBr_H2O_Calculator.csproj": {
+    "G:\\MyProgram\\LiBr_H2O\\github\\H2O\\LiBr_H2O_Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\LiBr_H2O_Calculator.csproj",
+        "projectUniqueName": "G:\\MyProgram\\LiBr_H2O\\github\\H2O\\LiBr_H2O_Calculator.csproj",
         "projectName": "LiBr_H2O_Calculator",
-        "projectPath": "G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\LiBr_H2O_Calculator.csproj",
+        "projectPath": "G:\\MyProgram\\LiBr_H2O\\github\\H2O\\LiBr_H2O_Calculator.csproj",
         "packagesPath": "C:\\Users\\zhc18\\.nuget\\packages\\",
-        "outputPath": "G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\obj\\",
+        "outputPath": "G:\\MyProgram\\LiBr_H2O\\github\\H2O\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
