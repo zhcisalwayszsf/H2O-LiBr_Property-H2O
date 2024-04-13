@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C50B0CF1-B0A7-4D2E-8267-6AA5F7610CB1}|LiBr_H2O_Calculator.csproj|G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C50B0CF1-B0A7-4D2E-8267-6AA5F7610CB1}|LiBr_H2O_Calculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C50B0CF1-B0A7-4D2E-8267-6AA5F7610CB1}|LiBr_H2O_Calculator.csproj|G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C50B0CF1-B0A7-4D2E-8267-6AA5F7610CB1}|LiBr_H2O_Calculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C50B0CF1-B0A7-4D2E-8267-6AA5F7610CB1}|LiBr_H2O_Calculator.csproj|g:\\myprogram\\libr_h2o\\libr_h2o_calculator\\libr_h2o_calculator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{C50B0CF1-B0A7-4D2E-8267-6AA5F7610CB1}|LiBr_H2O_Calculator.csproj|solutionrelative:libr_h2o_calculator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{C50B0CF1-B0A7-4D2E-8267-6AA5F7610CB1}|LiBr_H2O_Calculator.csproj|g:\\myprogram\\libr_h2o\\libr_h2o_calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50B0CF1-B0A7-4D2E-8267-6AA5F7610CB1}|LiBr_H2O_Calculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +22,25 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LiBr_H2O_Calculator",
-              "DocumentMoniker": "G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\LiBr_H2O_Calculator.csproj",
-              "RelativeDocumentMoniker": "LiBr_H2O_Calculator.csproj",
-              "ToolTip": "G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\LiBr_H2O_Calculator.csproj",
-              "RelativeToolTip": "LiBr_H2O_Calculator.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-05T13:21:56.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAHwAAAAAAAAAAAAuwI8AAAAnAAAA",
+              "ToolTip": "G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAuwJQAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T11:18:22.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\Form1.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "ToolTip": "G:\\MyProgram\\LiBr_H2O\\LiBr_H2O_Calculator\\Form1.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T12:02:35.037Z",
               "EditorCaption": " [\u8BBE\u8BA1]"
