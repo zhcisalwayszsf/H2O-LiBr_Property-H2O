@@ -147,7 +147,7 @@ namespace LiBr_H2O_Calculator
                     else
                     {
                         textBox7.Text = ConculateP_T_SW(Double.Parse(textBox1.Text)).ToString();
-                        label12.Text = "¡æ";
+                        label12.Text = "kPa";
                         break;
                     }
                 default:

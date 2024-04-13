@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LiBr_H2O_Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0d70b5643c4ff367691285ff1f064d516e14afa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LiBr_H2O_Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LiBr_H2O_Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

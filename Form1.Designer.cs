@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             tabControl1 = new TabControl();
             tabPage1 = new TabPage();
             tableLayoutPanel1 = new TableLayoutPanel();
@@ -163,7 +162,7 @@
             // label10
             // 
             label10.AutoSize = true;
-            label10.Font = new Font("Microsoft YaHei UI", 16F);
+            label10.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
             label10.ForeColor = SystemColors.MenuHighlight;
             label10.Location = new Point(30, 170);
             label10.Name = "label10";
@@ -174,7 +173,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Microsoft YaHei UI", 12F);
+            label1.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label1.Location = new Point(30, 25);
             label1.Name = "label1";
             label1.Size = new Size(132, 27);
@@ -236,7 +235,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Font = new Font("Microsoft YaHei UI", 12F);
+            label5.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label5.Location = new Point(60, 170);
             label5.Name = "label5";
             label5.Size = new Size(144, 27);
@@ -254,7 +253,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Font = new Font("Microsoft YaHei UI", 12F);
+            label4.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label4.Location = new Point(60, 100);
             label4.Name = "label4";
             label4.Size = new Size(126, 27);
@@ -272,7 +271,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Font = new Font("Microsoft YaHei UI", 12F);
+            label3.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label3.Location = new Point(60, 30);
             label3.Name = "label3";
             label3.Size = new Size(152, 27);
@@ -293,7 +292,7 @@
             // label12
             // 
             label12.AutoSize = true;
-            label12.Font = new Font("Microsoft YaHei UI", 16F);
+            label12.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
             label12.Location = new Point(400, 35);
             label12.Name = "label12";
             label12.Size = new Size(0, 35);
@@ -301,7 +300,7 @@
             // 
             // textBox7
             // 
-            textBox7.Font = new Font("Microsoft YaHei UI", 15F);
+            textBox7.Font = new Font("Microsoft YaHei UI", 15F, FontStyle.Regular, GraphicsUnit.Point);
             textBox7.Location = new Point(180, 35);
             textBox7.Name = "textBox7";
             textBox7.ReadOnly = true;
@@ -312,7 +311,7 @@
             // label11
             // 
             label11.AutoSize = true;
-            label11.Font = new Font("Microsoft YaHei UI", 16F);
+            label11.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
             label11.Location = new Point(26, 35);
             label11.Name = "label11";
             label11.Size = new Size(150, 35);
@@ -362,7 +361,7 @@
             // label13
             // 
             label13.AutoSize = true;
-            label13.Font = new Font("Microsoft YaHei UI", 16F);
+            label13.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
             label13.Location = new Point(400, 35);
             label13.Name = "label13";
             label13.Size = new Size(0, 35);
@@ -370,7 +369,7 @@
             // 
             // textBox8
             // 
-            textBox8.Font = new Font("Microsoft YaHei UI", 15F);
+            textBox8.Font = new Font("Microsoft YaHei UI", 15F, FontStyle.Regular, GraphicsUnit.Point);
             textBox8.Location = new Point(180, 35);
             textBox8.Name = "textBox8";
             textBox8.ReadOnly = true;
@@ -381,7 +380,7 @@
             // label14
             // 
             label14.AutoSize = true;
-            label14.Font = new Font("Microsoft YaHei UI", 16F);
+            label14.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
             label14.Location = new Point(26, 35);
             label14.Name = "label14";
             label14.Size = new Size(150, 35);
@@ -402,7 +401,7 @@
             // label9
             // 
             label9.AutoSize = true;
-            label9.Font = new Font("Microsoft YaHei UI", 16F);
+            label9.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
             label9.ForeColor = SystemColors.MenuHighlight;
             label9.Location = new Point(30, 170);
             label9.Name = "label9";
@@ -413,7 +412,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("Microsoft YaHei UI", 12F);
+            label2.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label2.Location = new Point(30, 25);
             label2.Name = "label2";
             label2.Size = new Size(132, 27);
@@ -475,7 +474,7 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Font = new Font("Microsoft YaHei UI", 12F);
+            label6.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label6.Location = new Point(60, 170);
             label6.Name = "label6";
             label6.Size = new Size(144, 27);
@@ -493,7 +492,7 @@
             // label7
             // 
             label7.AutoSize = true;
-            label7.Font = new Font("Microsoft YaHei UI", 12F);
+            label7.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label7.Location = new Point(60, 100);
             label7.Name = "label7";
             label7.Size = new Size(126, 27);
@@ -511,7 +510,7 @@
             // label8
             // 
             label8.AutoSize = true;
-            label8.Font = new Font("Microsoft YaHei UI", 12F);
+            label8.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label8.Location = new Point(60, 30);
             label8.Name = "label8";
             label8.Size = new Size(152, 27);
@@ -560,7 +559,7 @@
             // label15
             // 
             label15.AutoSize = true;
-            label15.Font = new Font("Microsoft YaHei UI", 16F);
+            label15.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
             label15.Location = new Point(400, 35);
             label15.Name = "label15";
             label15.Size = new Size(0, 35);
@@ -568,7 +567,7 @@
             // 
             // textBox9
             // 
-            textBox9.Font = new Font("Microsoft YaHei UI", 15F);
+            textBox9.Font = new Font("Microsoft YaHei UI", 15F, FontStyle.Regular, GraphicsUnit.Point);
             textBox9.Location = new Point(180, 35);
             textBox9.Name = "textBox9";
             textBox9.ReadOnly = true;
@@ -579,7 +578,7 @@
             // label16
             // 
             label16.AutoSize = true;
-            label16.Font = new Font("Microsoft YaHei UI", 16F);
+            label16.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
             label16.Location = new Point(26, 35);
             label16.Name = "label16";
             label16.Size = new Size(150, 35);
@@ -602,7 +601,7 @@
             // 
             textBox13.BackColor = SystemColors.Control;
             textBox13.BorderStyle = BorderStyle.None;
-            textBox13.Font = new Font("Microsoft YaHei UI", 12F);
+            textBox13.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             textBox13.Location = new Point(3, 83);
             textBox13.Name = "textBox13";
             textBox13.ReadOnly = true;
@@ -613,7 +612,7 @@
             // label17
             // 
             label17.AutoSize = true;
-            label17.Font = new Font("Microsoft YaHei UI", 16F);
+            label17.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
             label17.ForeColor = SystemColors.MenuHighlight;
             label17.Location = new Point(30, 170);
             label17.Name = "label17";
@@ -624,7 +623,7 @@
             // label18
             // 
             label18.AutoSize = true;
-            label18.Font = new Font("Microsoft YaHei UI", 12F);
+            label18.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label18.Location = new Point(30, 25);
             label18.Name = "label18";
             label18.Size = new Size(132, 27);
@@ -676,7 +675,7 @@
             // label19
             // 
             label19.AutoSize = true;
-            label19.Font = new Font("Microsoft YaHei UI", 12F);
+            label19.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label19.Location = new Point(60, 170);
             label19.Name = "label19";
             label19.Size = new Size(144, 27);
@@ -694,7 +693,7 @@
             // label20
             // 
             label20.AutoSize = true;
-            label20.Font = new Font("Microsoft YaHei UI", 12F);
+            label20.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label20.Location = new Point(60, 100);
             label20.Name = "label20";
             label20.Size = new Size(126, 27);
@@ -712,7 +711,7 @@
             // label21
             // 
             label21.AutoSize = true;
-            label21.Font = new Font("Microsoft YaHei UI", 12F);
+            label21.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label21.Location = new Point(60, 30);
             label21.Name = "label21";
             label21.Size = new Size(152, 27);
@@ -726,7 +725,6 @@
             AutoSizeMode = AutoSizeMode.GrowAndShrink;
             ClientSize = new Size(800, 450);
             Controls.Add(tabControl1);
-            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "Form1";
             RightToLeft = RightToLeft.No;
